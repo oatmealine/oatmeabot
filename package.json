@@ -1,0 +1,26 @@
+{
+  "name": "oatmeabot",
+  "version": "1.0.0",
+  "description": "a discord bot that learns on messages",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oatmealine/oatmeabot.git"
+  },
+  "keywords": [
+    "discord",
+    "discord.js"
+  ],
+  "author": "oatmealine <krakaka088@gmail.com> (https://koyu.space/@oatmealine)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/oatmealine/oatmeabot/issues"
+  },
+  "homepage": "https://github.com/oatmealine/oatmeabot#readme",
+  "dependencies": {
+    "discord.js": "^11.5.1"
+  }
+}
